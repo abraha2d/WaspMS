@@ -1,0 +1,17 @@
+version 2
+1
+9
+.tran 1m 10 uic{return}.kicad adjustpaths{return}.save all{return}.probe alli
+4
+1
+V(/V_BAT)
+ 
+1
+V(/V_BAT+)
+ 
+1
+V(/V_BAT-)
+ 
+1
+V(/V_G)
+ 

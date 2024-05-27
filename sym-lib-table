@@ -3,4 +3,5 @@
   (lib (name "BQ34Z100PWR-R2")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/BQ34Z100PWR-R2.kicad_sym")(options "")(descr ""))
   (lib (name "BQ79600PWRQ1")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/BQ79600PWRQ1.kicad_sym")(options "")(descr ""))
   (lib (name "BQ79656PAPRQ1")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/BQ79656PAPRQ1.kicad_sym")(options "")(descr ""))
+  (lib (name "DMTH10H015LK3-13")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/DMTH10H015LK3-13.kicad_sym")(options "")(descr ""))
 )
