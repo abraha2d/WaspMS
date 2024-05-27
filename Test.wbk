@@ -1,20 +1,11 @@
 version 2
 1
 9
-.tran 100u 10 uic{return}.kicad adjustpaths{return}.save all{return}.probe alli
-5
+.tran 1m 10{return}.kicad adjustpaths{return}.save all{return}.probe alli
+2
 1
-V(/5V_BAT)
+V(/5V_BAT_HI)
  
 1
 V(/5V_REF)
- 
-1
-V(/BAT-)
- 
-1
-V(/GATE)
- 
-1
-V(/VCC)
  

@@ -5,4 +5,5 @@
   (lib (name "BQ79656PAPRQ1")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/BQ79656PAPRQ1.kicad_sym")(options "")(descr ""))
   (lib (name "DMTH10H015LK3-13")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/DMTH10H015LK3-13.kicad_sym")(options "")(descr ""))
   (lib (name "TL084HIDYYR")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TL084HIDYYR.kicad_sym")(options "")(descr ""))
+  (lib (name "LM4040CIM3-5_0+T")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/LM4040CIM3-5_0+T.kicad_sym")(options "")(descr ""))
 )
